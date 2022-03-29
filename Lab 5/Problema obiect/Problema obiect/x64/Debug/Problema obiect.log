@@ -1,0 +1,9 @@
+﻿  Number.cpp
+E:\OOP\Lab 5\Problema obiect\Problema obiect\Number.cpp(119,44): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+E:\OOP\Lab 5\Problema obiect\Problema obiect\Number.cpp(128,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Running Code Analysis for C/C++...
+  Generating Code...
+  Problema obiect.vcxproj -> E:\OOP\Lab 5\Problema obiect\x64\Debug\Problema obiect.exe
+E:\OOP\Lab 5\Problema obiect\Problema obiect\Number.cpp(23): warning C26439: This kind of function should not throw. Declare it 'noexcept' (f.6).
+E:\OOP\Lab 5\Problema obiect\Problema obiect\Number.cpp(204): warning C6386: Buffer overrun while writing to 'b'.

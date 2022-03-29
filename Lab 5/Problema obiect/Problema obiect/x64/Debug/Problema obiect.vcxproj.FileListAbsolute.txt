@@ -1,0 +1,2 @@
+E:\OOP\Lab 5\Problema obiect\x64\Debug\Problema obiect.exe.lastcodeanalysissucceeded
+E:\OOP\Lab 5\Problema obiect\Problema obiect\x64\Debug\NativeCodeAnalysis.read.1.tlog
